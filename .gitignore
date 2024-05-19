@@ -1,0 +1,14 @@
+*.zip
+*.wav
+*.csv
+data/*.zip
+data/*.wav
+data/*.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS specific
+.DS_Store
